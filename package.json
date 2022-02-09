@@ -1,0 +1,24 @@
+{
+  "name": "ascii-pepe",
+  "version": "1.0.0",
+  "description": "ascii pepe, an integral part of every project",
+  "main": "index.js",
+  "test": "node test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CUFTA22/ascii-pepe.git"
+  },
+  "keywords": [
+    "ascii",
+    "pepe"
+  ],
+  "author": "CUFTA22",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CUFTA22/ascii-pepe/issues"
+  },
+  "homepage": "https://github.com/CUFTA22/ascii-pepe#readme"
+}
